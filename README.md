@@ -3,7 +3,9 @@
 ![screenshots.png](./screenshots.png)
 
 40 async threads.
+
 (40 nodes + CompletableFuture&ExecutorService)
+
 ![40_threads.png](./40_threads.png)
 
 # how to use
@@ -21,6 +23,6 @@ cd selenium
 ![down.png](./down.png)
 ```
 ctrl+C
-dockercompose down
+docker-compose down
 ```
 
